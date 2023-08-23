@@ -2,21 +2,22 @@
 
 /* Primitives */
 
-// let a; // Definition oder Deklaration
+let a; //! Definition oder Deklaration
 
-// Wertzuweisung / Assignment 
-// a = 2; // number 
-// a = true; // boolean (true, false)
-// a = "Hallo"; // string 
+//! Wertzuweisung / Assignment (Wichtig für die Verständnis)
+a = 2; // number 
+a = true; // boolean (true, false)
+a = "Hallo"; // string 
 
-//   console.log(typeof a);
-//   console.log(a);
+//  console.log(typeof a);
+//  console.log(a);
 
 /* Arrays */
 // Navigation über INDEX
 
+//! Ausgabe von Arrays
 // let arr;
-// // arr = new Array();  // Möglichkeit
+// // arr = new Array();  // eine Möglichkeit
 // arr = [false,true,true,false];
 // console.log(arr);
 // console.log(arr[0]);
@@ -39,7 +40,7 @@
 
 
 /* Daten-Objekte */
-// Navigation über Bezeichner (keys)
+//! Navigation über Bezeichner (keys)
 
 // let obj = {x:"Hi", y:20};
 // console.log(obj);
@@ -75,10 +76,12 @@
 // document.getElementById("test").innerHTML = "Hallo Text!"
 
 /* ENTSCHEIDUNGSSTRUKTUREN | CONTROL FLOW*/
+//! Relevantes Thema
 
  // https://github.com/01-PP-ComCave/03_Entscheidungsstrukturen
 
 /* FUNKTIONEN */
+//! relevantes Thema
 
 // https://github.com/01-PP-ComCave/05_Funktionen
 // https://github.com/01-PP-ComCave/06_Funktionen_II.git
